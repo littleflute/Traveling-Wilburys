@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Handle With Care.mp3";		
+f[2]	= "02 Dirty World.mp3";		
+f[3]	= "03 Rattled.mp3";		
+f[4]	= "04 Last Night.mp3";		
+f[5]	= "05 Not Alone Anymore.mp3";		
+f[6]	= "06 Congratulations.mp3";		
+f[7]	= "07 Heading for the Light.mp3";		
+f[8]	= "08 Margarita.mp3";		
+f[9]	= "09 Tweeter and the Monkey Man.mp3";		
+f[10]	= "10 End of the Line.mp3";		
