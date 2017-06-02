@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 She's My Baby.mp3";		
+f[2]	= "02 Inside Out.mp3";		
+f[3]	= "03 If You Belonged to Me.mp3";		
+f[4]	= "04 The Devil's Been Busy.mp3";		
+f[5]	= "05 7 Deadly Sins.mp3";		
+f[6]	= "06 Poor House.mp3";		
+f[7]	= "07 Where Were You Last Night-.mp3";		
+f[8]	= "08 Cool Dry Place.mp3";		
+f[9]	= "09 New Blue Moon.mp3";		
+f[10]	= "10 You Took My Breath Away.mp3";		
+f[11]	= "11 Wilbury Twist.mp3";		
+f[12]	= "12 Nobody's Child [-].mp3";		
+f[13]	= "13 Runaway [-].mp3";		
